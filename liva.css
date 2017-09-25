@@ -10,16 +10,7 @@ h1 {
 	font-size: 200pt;
 } 
 a {
-	color: white;
-}
-p {
-	border-bottom: 1px solid black;
-	padding-bottom: 5px;	
- }
-#footer {
-   position:absolute;
-   bottom:0;
-   width:1200px;
-   height:60px;  
-   background: white;
+	color: black;
+	font-size: 80pt;
+	font: Gerstner Programm light;
 }
