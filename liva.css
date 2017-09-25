@@ -1,0 +1,25 @@
+body {
+	background: #0065C1;
+	font-size: 12pt;
+	font-family: Gerstner Programm;
+	max-width: 600px;
+	margin: 0 auto;
+} 
+h1 {
+	color: black;
+	font-size: 200pt;
+} 
+a {
+	color: white;
+}
+p {
+	border-bottom: 1px solid black;
+	padding-bottom: 5px;	
+ }
+#footer {
+   position:absolute;
+   bottom:0;
+   width:1200px;
+   height:60px;  
+   background: white;
+}
